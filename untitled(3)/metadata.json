@@ -1,0 +1,6 @@
+{
+  "name": "P-Stream",
+  "description": "Watch movies, shows, and anime online — no ads, no signup, no subscription. P-Stream searches the web so you don't have to.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
