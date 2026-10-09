@@ -1,6 +1,0 @@
-{
-  "name": "Kerasoni",
-  "description": "Watch movies, shows, and anime online — no ads, no signup, no subscription. Kerasoni searches the web so you don't have to.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
